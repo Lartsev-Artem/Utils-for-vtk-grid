@@ -1,0 +1,6 @@
+/.vs
+/x64
+/Utils_vtk/x64
+/Utils_vtk/Utils_vtk.vcxproj 
+/Utils_vtk/Utils_vtk.vcxproj.filters
+/Utils_vtk/Utils_vtk.vcxproj.user
